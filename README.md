@@ -45,4 +45,5 @@
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
+![228096dfdf06b73a8364ebe910666ad3](https://github.com/user-attachments/assets/c2f0ace0-30a5-421d-be78-ec956a46c066)
 
